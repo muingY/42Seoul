@@ -1,0 +1,10 @@
+.DS_Store
+a.out
+minishell
+*.o
+libft.a
+*.dSYM/
+README.md.*
+seongcho/
+minishell-tester/
+

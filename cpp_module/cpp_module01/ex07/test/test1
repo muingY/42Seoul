@@ -1,0 +1,119 @@
+ROS package or Stack
+
+If you're creating the initial page for a stack or package, please give it the page the same name as the stack or package itself, and use one of the following templates:
+
+    StackTemplate - Template this new page to hold usage documentation for a stack
+
+    PackageTemplate - Template this new page to hold usage documentation for a package 
+
+If you're creating additional documentation for a package or stack, feel free to structure them however you like, but please keep them within the namespace of your package (e.g. "ros.org/wiki/my_package/more_details") Create new empty page
+
+Tutorials
+
+To keep tutorials organized, each stack and package has a link to tutorials at the bottom of the page. If you got here via that link please start a list of tutorials with this template:
+
+    TutorialIndexTemplate 
+
+Once you save that page, it will have a "Create Tutorial" button that you can use to create new tutorial pages which will be automatically indexed and easier for users to find. Also the WritingTutorials page outlines how to write a tutorial.
+
+Troubleshooting
+
+If you're starting a troubleshooting page for a stack or package which doesn't currently have one:
+
+    TroubleshootingTemplate 
+
+If none of these cover your situation, you can create a blank page Create new empty page
+
+Or choose a page template to create an already-formatted page:
+	
+
+Before creating the page, please check if a similar page already exists. Here are some existing pages with similar names:
+
+    CategoryTemplate
+    ChangelistTemplate
+    ContestCSHeaderTemplate
+    ContestEntryCSHeaderTemplate
+    ContestEntryTemplate
+    ContestIndexTemplate
+    ContestTemplate
+    CreateTutorialTemplate
+    GithubPackageTemplate
+    HelpTemplate
+    HomepageGroupsTemplate
+    HomepagePrivatePageTemplate
+    HomepageReadPageTemplate
+    HomepageReadWritePageTemplate
+    HomepageTemplate
+    PackageAPIReviewTemplate
+    PackageCodeReviewTemplate
+    PackageDocReviewTemplate
+    PackageReviewIndexTemplate
+    PackageTemplate
+    ProjectGroupsTemplate
+    ProjectTemplate
+    PublicationTemplate
+    RoadmapTemplate
+    RobotOverviewTemplate
+    ScottHassan/TestTemplate
+    SlideShowHandOutTemplate
+    SlideShowTemplate
+    SlideTemplate
+    StackAPIReviewTemplate
+    StackCodeReviewTemplate
+    StackDocReviewTemplate
+    StackReviewIndexTemplate
+    StackRoadmapTemplate
+    StackTemplate
+    SyncJobTemplate
+    TroubleshootingTemplate
+    TutorialCSHeaderTemplate
+    TutorialIndexTemplate
+    TutorialTemplate
+    fr/TutorialCSHeaderTemplate
+    platform_group/Template
+    rviz/DisplayTemplate
+
+	
+
+    ROS
+    cn/ROS
+    fr/ROS
+    ja/ROS
+    knowrob
+    ko/Robots
+    ko/Robots/NXT
+    ko/Robots/Nao
+    orocos
+    ros
+
+    ko/ROS/Concepts
+    ko/ROS/Higher-Level Concepts
+    ko/ROS/Installation
+    ko/ROS/Introduction
+    ko/ROS/StartGuide
+    ko/ROS/Technical Overview
+    ko/ROS/Tutorials
+    ko/ROS/Tutorials/BuildingPackages
+    ko/ROS/Tutorials/Creating a Package by Hand
+    ko/ROS/Tutorials/CreatingMsgAndSrv
+    ko/ROS/Tutorials/CreatingPackage
+    ko/ROS/Tutorials/DefiningCustomMessages
+    ko/ROS/Tutorials/InstallingandConfiguringROSEnvironment
+    ko/ROS/Tutorials/MultipleMachines
+    ko/ROS/Tutorials/NavigatingTheFilesystem
+    ko/ROS/Tutorials/Roslaunch tips for larger projects
+    ko/ROS/Tutorials/UnderstandingNodes
+    ko/ROS/Tutorials/UnderstandingServicesParams
+    ko/ROS/Tutorials/UnderstandingTopics
+    ko/ROS/Tutorials/Using a C++ class in Python
+    ko/ROS/Tutorials/UsingRqtconsoleRoslaunch
+    ko/ROS/Tutorials/catkin/BuildingPackages
+    ko/ROS/Tutorials/catkin/CreateWorkspace
+    ko/ROS/Tutorials/catkin/CreatingPackage
+    ko/ROS/Tutorials/catkin/NavigatingTheFilesystem
+    ko/ROS/Tutorials/rosbuild/BuildingPackages
+    ko/ROS/Tutorials/rosbuild/CreateWorkspace
+    ko/ROS/Tutorials/rosbuild/CreatingPackage
+    ko/ROS/Tutorials/rosbuild/NavigatingTheFilesystem
+    ko/ROS/Tutorials/rosdep
+    ko/ROS/Tutorials/tmp

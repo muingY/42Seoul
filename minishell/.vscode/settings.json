@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "minishell.h": "c",
+        "algorithm": "c",
+        "__config": "cpp",
+        "__tuple": "cpp",
+        "bit": "cpp",
+        "istream": "cpp",
+        "locale": "cpp",
+        "unordered_map": "cpp"
+    }
+}
